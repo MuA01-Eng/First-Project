@@ -1,0 +1,2 @@
+Cout << "Hello World !"<<endl ;
+Console.WriteLine("Hello World !");
